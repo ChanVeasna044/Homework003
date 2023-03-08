@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Hanuman-Black';
+  src: url('../font/Hanuman-Black.ttf');
+}
+@font-face {
+  font-family: 'Hanuman-Bold';
+  src: url(../font/Hanuman-Bold.ttf);
+}
+@font-face {
+  font-family: 'Hanuman-Light';
+  src: url(../font/Hanuman-Light.ttf);
+}
+@font-face {
+  font-family: 'Hanuman-Thin';
+  src: url(../font/Hanuman-Thin.ttf);
+}
+@font-face {
+  font-family: 'Hanuman-Regular';
+  src: url(../font/Hanuman-Regular.ttf);
+}
+#bold {
+  font-family: 'Hanuman-Bold';
+  background-color: red;
+  text-align: center;
+}
+
+* {
+  font-family: 'Hanuman-light';
+}
